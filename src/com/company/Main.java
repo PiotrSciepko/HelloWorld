@@ -13,6 +13,9 @@ public class Main {
         int l1 = input.nextInt();
         int l2 = input.nextInt();
 
-        System.out.println("l1*l2");
+        System.out.println(l1*l2);
+
+        int[] arr = {1,2,3,4};
+        System.out.println(arr[0] + " " + arr[1]);
     }
 }
